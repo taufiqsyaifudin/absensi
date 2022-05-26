@@ -4,5 +4,5 @@
       Taufiq Syaifudin
     </div>
     <!-- Default to the left -->
-    <strong>Copyright &copy; 2022 <a href="https://adminlte.io">Aapliaksi Absebsi</a>.</strong> All rights reserved.
+    <strong>Copyright &copy; 2022 <a href="https://adminlte.io">Aplikasi Absensi</a>.</strong> All rights reserved.
 </footer>
